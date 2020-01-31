@@ -1,4 +1,4 @@
-# Change-Detection-in-Satellite-Imagery
+# Change-Detection-in-Satellite-Imagery : Working
 
 It employes Principal Component Analysis (PCA) and K-means clustering techniques over difference image to detect changes in multi temporal images satellite imagery.
 
